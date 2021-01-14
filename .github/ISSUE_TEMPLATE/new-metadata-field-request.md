@@ -21,6 +21,7 @@ assignees: SamStudio8
 * [ ] Add field validation to Majora forms
 * [ ] Handle new field in Majora form_handler
 * [ ] Add field to Ocarina
+* [ ] Update Majora views (if needed)
 * [ ] Add field to API docs
 * [ ] CGPS uploader test
 * [ ] Push to Majora prod
