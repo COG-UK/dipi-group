@@ -1,7 +1,7 @@
 ---
 name: Add or update metadata field
 about: Request to add or update a metadata field in the Majora database and uploader
-title: "[newfield] "
+title: "[metafield] "
 labels: metadata
 assignees: SamStudio8
 
