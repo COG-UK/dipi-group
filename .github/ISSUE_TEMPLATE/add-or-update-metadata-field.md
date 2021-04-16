@@ -22,6 +22,7 @@ assignees: SamStudio8
 * [ ] Majora database migration
 * [ ] Add field validation to Majora forms
 * [ ] Handle new field in Majora form_handler
+* [ ] Handle new field in Majora QC subsystem (if needed)
 * [ ] Add field to Ocarina
 * [ ] Update Majora views (if needed)
 * [ ] Add field to API docs
