@@ -2,6 +2,7 @@
 
 DIPI encourages members to fill out a postmortem for "terrible" incidents.
 We don't currently provide a definition of "terrible", but it is likely that you'll know a terrible incident if you see it.
+As a yardstick, a terrible incident will tend to impact the downstream dataset. You may want to fill the template in for near misses, or you may not.
 Filling in a report is entirely voluntary, this template is provided in the hope that members may use it to communicate openly about issues that have been encountered and addressed in our systems.
 
 The template is heavily based on the [Atlassian Incident Management Handbook](https://www.atlassian.com/incident-management/handbook/).
