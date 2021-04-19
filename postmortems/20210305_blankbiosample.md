@@ -1,6 +1,6 @@
 | <img src="/assets/dipi.png" alt="DIPI Badge" width="150">      | Data Integrity and Pipeline Integration (DIPI) Working Group |
 | -------------- | ----------------- |
-| **Event**   | Elan_20210305: A     |
+| **Event**   | `20210305_blankbiosample` |
 | **Systems**    | `Elan`, `Asklepian` |
 | **Detected**   | 2021-03-05 23:27  |
 | **Resolved**   | 2021-03-06 03:34  |
