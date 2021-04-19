@@ -20,6 +20,7 @@ assignees: SamStudio8
 **Proposed by:** [Name/Initials] [Site code]
 
 * [ ] I have read the documentation for the existing validators and there is no suitable entry
+* [ ] This is not a request to add a sequencing platform which has its own special form
 
 ***
 ***
@@ -27,7 +28,6 @@ assignees: SamStudio8
 **FOR DEVELOPER USE**
 
 * [ ] Add field validation to Majora forms
-* [ ] Add handling to Majora QC subsystem (if applicable)
 * [ ] Add field to API docs
 * [ ] Push to Majora prod
 * [ ] Update validator spreadsheet (if applicable)
