@@ -31,3 +31,4 @@ assignees: SamStudio8
 * [ ] Add field to API docs
 * [ ] Push to Majora prod
 * [ ] Update validator spreadsheet (if applicable)
+* [ ] Update CLIMB-COVID data changelog
