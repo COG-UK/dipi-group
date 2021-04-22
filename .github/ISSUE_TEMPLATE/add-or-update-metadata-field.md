@@ -31,3 +31,4 @@ assignees: SamStudio8
 * [ ] Majora production database migration
 * [ ] Push to Uploader prod
 * [ ] Announce new fields to users
+* [ ] Update CLIMB-COVID data changelog
