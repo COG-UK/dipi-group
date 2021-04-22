@@ -43,3 +43,4 @@ Ensure the platform is formally listed [here](https://github.com/enasequence/sch
 * [ ] Add field to API docs
 * [ ] Push to Majora prod
 * [ ] Update validator spreadsheet (if applicable)
+* [ ] Update CLIMB-COVID data changelog
