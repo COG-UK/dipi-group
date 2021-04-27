@@ -22,3 +22,9 @@ assignees:
 * [ ] Reconcile output
 * [ ] Send mqtt message (if applicable)
 * [ ] Re-enable cache destruction (if disabled)
+
+***
+
+* [ ] Manual intervention complete
+* "Normal" service disrupted? **YES/NO**
+* If yes, describe impact:
