@@ -117,7 +117,7 @@ This type of incident has not occurred before.
 ## Corrective actions
 
 * [x] Patch Majora such that the `api.artifact.biosample.update` endpoint refuses to update records that appear to be incomplete (https://github.com/SamStudio8/majora/commit/1fc9f7e309d9ac9f5d4895af882441969a7da471)
-* [ ] Write a Majora unit test that calls the `api.artifact.biosample.addempty` before trying to use `api.artifact.biosample.update` to ensure behaviour is maintained
+* [x] Write a Majora unit test that calls the `api.artifact.biosample.addempty` before trying to use `api.artifact.biosample.update` to ensure behaviour is maintained
 * [x] Check the `collection_date`, `received_date` and `adm1` fields in `Ocarina`, rather than `adm0` and `submitting_user` to decide if a record is incomplete (https://github.com/SamStudio8/ocarina/commit/801d2ff614e4800af3c125d28ae5bd8622514afb)
 * [x] Remove bad `PublishedArtifactGroup` from Majora to prevent public dissemination of sequences with incomplete metadata
 * [ ] Suggest that someone at COG or PHA assemble a flow chart of desired update procedures to work from in future
