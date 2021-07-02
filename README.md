@@ -15,3 +15,8 @@ DIPI is a working group within COG-UK. It aims to:
 * Promote best practice for developing tools for use within the consortium, and releasing them as open source software to be used outside the remit of COG-UK.
 * Discuss and plan for long-term running and maintenance of software and pipelines.
 * Be responsible for communicating user-facing errors or changes that impact the consortium.
+
+## Publications
+
+* CLIMB-COVID: continuous integration supporting decentralised sequencing for SARS-CoV-2 genomic surveillance
+ https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02395-y
