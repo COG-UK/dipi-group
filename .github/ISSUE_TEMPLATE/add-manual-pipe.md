@@ -20,7 +20,7 @@ assignees:
 * [ ] Engage pipeline
 * [ ] Disable NXF cache destruction (if applicable)
 * [ ] Reconcile output
-* [ ] Send mqtt message (if applicable)
+* [ ] Check (or send) mqtt message (if applicable)
 * [ ] Re-enable cache destruction (if disabled)
 
 ***
