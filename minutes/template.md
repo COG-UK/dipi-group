@@ -5,23 +5,10 @@
 | **Attendance** |                      |
 | **Away**       |                      |
 
-## Proposed agenda
-
-* Development roundup
-* Pipeline updates
-* Upcoming threats
-* AOB
-
-## Previous actions
-
-| Issue | For | Action          | Update          |
-|-------|-----|-----------------|--------------------|
-| [#nn](https://github.com/COG-UK/dipi-group/issues/nn) | who | what | update |
-
 
 ## Special items
 
-* Nothing special
+Nothing special
 
 ## Standing items
 
@@ -33,9 +20,4 @@
 
 ### AOB
 
-
-## Action summary
-
-| Issue | For | Action          | Timescale          |
-|-------|-----|-----------------|--------------------|
-| [#nn](https://github.com/COG-UK/dipi-group/issues/nn) | who | what | when |
+No AOB
