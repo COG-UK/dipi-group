@@ -3,7 +3,7 @@
 | **Event**      | Asklepian MSA engine  |
 | **Systems**    | `asklepian-phe`  |
 | **Data**    | `asklepian` downstream data (MSA, genome table, variant table)  |
-| **Implemented**| Awaiting approval |
+| **Implemented**| 2021-08-05 |
 | **Related issues** | [#117](https://github.com/COG-UK/dipi-group/issues/117) |
 
 ## Summary
