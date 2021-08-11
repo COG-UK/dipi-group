@@ -25,11 +25,8 @@ assignees:
 * [ ] Re-enable NXF cache destruction (if disabled)
 
 ***
+* [ ] Set appropriate issue flags and assignee
 
 * [ ] Manual intervention complete
 * "Normal" service disrupted? **YES/NO**
 * If yes, describe impact:
-
-
-
-* [ ] Set appropriate issue flags and assignee
