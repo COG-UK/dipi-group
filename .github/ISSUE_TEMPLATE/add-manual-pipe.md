@@ -30,4 +30,4 @@ assignees:
 * "Normal" service disrupted? **YES/NO**
 * If yes, describe impact:
 
-* [ ] Set appropriate issue flags
+* [ ] Set appropriate issue flags and assignee
