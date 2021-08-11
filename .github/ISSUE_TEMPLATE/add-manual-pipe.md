@@ -15,7 +15,7 @@ assignees:
 ***
 **Executed by:** [Name or initials] [Site code]
 
-* [ ] I am sure this pipeline is not already running (**Only relevant for dipi**)
+* [ ] I am sure this pipeline is not already running (**Only relevant for non-flocked pipelines**)
 
 ***
 * [ ] Engage pipeline via mqtt **from a clean dedicated mqtt environment**
@@ -29,5 +29,7 @@ assignees:
 * [ ] Manual intervention complete
 * "Normal" service disrupted? **YES/NO**
 * If yes, describe impact:
+
+
 
 * [ ] Set appropriate issue flags and assignee
