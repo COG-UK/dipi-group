@@ -10,21 +10,24 @@ assignees:
 
 [Provide a sentence of background]
 
+**Pipeline exit code:** [Exit code]
+
 ***
 **Executed by:** [Name or initials] [Site code]
 
-* [ ] I am sure this pipeline is not already running
+* [ ] I am sure this pipeline is not already running (**Only relevant for dipi**)
 
 ***
-* [ ] Reconcile input
-* [ ] Engage pipeline **from a clean environment**
-* [ ] Disable NXF cache destruction (if applicable)
-* [ ] Reconcile output
-* [ ] Check (or send) mqtt message (if applicable)
-* [ ] Re-enable cache destruction (if disabled)
+* [ ] Engage pipeline via mqtt **from a clean dedicated mqtt environment**
+* [ ] Disable NXF cache destruction (only applicable for ENA BAM pipe)
+* [ ] Check output if necessary
+* [ ] Check mqtt message is sent confirming completion, or send one if required (check in #tael-steam)
+* [ ] Re-enable NXF cache destruction (if disabled)
 
 ***
 
 * [ ] Manual intervention complete
 * "Normal" service disrupted? **YES/NO**
 * If yes, describe impact:
+
+* [ ] Set appropriate issue flags
