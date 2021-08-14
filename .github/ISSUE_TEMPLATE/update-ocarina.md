@@ -1,12 +1,14 @@
 ---
 name: Update Ocarina across CLIMB-COVID
 about: Open a tracking issue to rollout a new version of Ocarina
-title: "[ocarina] "
+title: "[ocarina] Update Ocarina to 0.xx.yy"
 labels: infrastructure
 assignees: 
 ---
 
 **Target commit**
+**Version**
+**Target date**
 
 ***
 
