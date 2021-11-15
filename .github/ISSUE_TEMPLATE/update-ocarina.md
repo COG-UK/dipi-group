@@ -17,6 +17,7 @@ assignees:
 * [ ] Direct install into core `samstudio8` conda env
 * [ ] Update elan-nextflow `ocarina.yml`
 * [ ] Asklepian `environment.yml`, pip install into `nicholsz-asklepian`
+* [ ] Update Eagle Owl `config/condaenvs` and run `conda env update` as appropriate
 
 ***
 
