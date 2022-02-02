@@ -4,7 +4,7 @@
 | **Systems**    | `Elan` |
 | **Detected**   | `2022-01-05 12:00`|
 | **Resolved**   | `2022-01-07 10:30`|
-| **Team**       | `SN`              |
+| **Team**       | `SN`, `SW`        |
 | **Related issues** | [#179](https://github.com/COG-UK/dipi-group/issues/179), [#178](https://github.com/COG-UK/dipi-group/issues/178), [#38](https://github.com/COG-UK/dipi-group/issues/38) |
 
 ## Summary
