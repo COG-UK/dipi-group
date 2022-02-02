@@ -117,6 +117,7 @@ The publish script queried Majora for PAGs with a published date after (and not 
 * ...because we underestimated the performance of `readfq` with bad data
 * ...because we had never seen data this bad before
 
+###
 * 13,986 sequences that should have been published on 2022-01-05 were removed
 * ...because an error was made when republishing the data set
 * ...because there was no documentation for how to republish the data set
