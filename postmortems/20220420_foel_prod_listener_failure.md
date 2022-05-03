@@ -10,12 +10,6 @@
 
 A site-wide DNS glitch resulted in the Foel production SQS message listener failing since it could not connect to AWS endpoint at `2022-04-20 19:48`. This listener has no way to re-raise itself or indicate that it has failed which lead to this failure being undetected for eight days until `2022-04-28 10:34` when `BM` sent an email to `SW` and `NL`. This email indicated that no genomes had been recorded as received via the AWS ingest since `2022-04-21` despite sequences having been submitted. In response to this `SW` determined that the `foel_prod` systemd service had failed and restarted it successfully.
 
-## Leadup
-
-* Foel had been successfully ingesting genomes into CLIMB-COVID via AWS since its introduction in late 2021.
-* As part of a wider migration to systemd services (Operation Antelope) `foel_prod` was successfully migrated to the newly made services VM from the CLIMB-COVID login node on `2022-03-08`.
-* While migrating `foel_prod` to a systemd service no failure mitigations were implemented such as an automatic restart clause or an automated alert on the failure of the service.
-
 ## Fault
 
 ### `20220420_foel_prod_listener_failure`
@@ -55,10 +49,10 @@ Apr 20 19:48:39 climbcovid-services.novalocal run_foel_prod.sh[7302]: botocore.e
 * `19:48` - `foel_prod.service` fails due to a DNS glitch preventing the service from accessing the `https://eu-west-2.queue.amazonaws.com/` AWS endpoint.
 
 ### 2022-04-21
-* `throughout` - `x` genomes submitted to the AWS ingest.
+* `unknown` - 141 genomes (423 messages) submitted to the AWS ingest.
 
 ### 2022-04-25
-* `throughout` - messages for the `x` genomes submitted on the `2022-04-21` expire.
+* `unknown` - 423 messages for the 141 genomes submitted on the `2022-04-21` expire.
 
 ### 2022-04-28
 * `10:34` - BM sends email to SW and NL observing that SQS messages are aging and some have expired.
